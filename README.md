@@ -1,21 +1,20 @@
 ### Hi there 👋
 
-<!--
-**demo-pzx/demo-pzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A back-end development engineer who has been practicing for two and a half years. The main development languages are Java, Python, and JavaScript.
 
-Here are some ideas to get you started:
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=demo-pzx&label=Profile%20views&color=0e75b6&style=flat" alt="demo-pzx" /> 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=demo-pzx&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demo-pzx&layout=compact&theme=buefy&hide_border=true" /> |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+- 🌱 I’m currently learning **Python/Golang**
+
+- 📝 I regularly write articles on [https://www.yuque.com/_demo](https://www.yuque.com/_demo)
+
+- 📫 How to reach me **pengzexuan2001@gmail.com**
+
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=demo-pzx&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Demo's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demo-pzx&layout=compact&theme=buefy&hide_border=true" /> |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
 
 
  
