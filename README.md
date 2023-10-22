@@ -8,7 +8,7 @@ A back-end development engineer who has been practicing for two and a half years
 
 - 🌱 I’m currently learning **Python/Golang**
 
-- 💼 I'm current working in **Weimob**
+- 💼 I'm currently working in **Weimob**
 
 - 📝 I regularly write articles on [https://www.yuque.com/_demo](https://www.yuque.com/_demo)
 
