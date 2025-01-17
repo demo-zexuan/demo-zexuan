@@ -15,7 +15,7 @@ A back-end development engineer who has been practicing for two and a half years
 - 📫 How to reach me **pengzexuan2001@gmail.com**
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=demo-pzx&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Demo's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demo-pzx&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=demo-zexuan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Demo's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demo-zexuan&layout=compact&theme=buefy&hide_border=true" /> |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
 
 
