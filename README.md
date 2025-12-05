@@ -4,6 +4,14 @@ I'm studying for the Postgraduate Entrance Examination now.
 
 I have 3 years work experience in back-end development, mainly using Java and Python.
 
+<p >
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,java,python,cpp"  alt=""/>
+</p>
+
+<p >
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,elasticsearch,prometheus,kafka"  alt=""/>
+</p>
+
 —— Q: Why am I trying to get a master's degree?
 
 —— A: I'm tired of being a common programmer. I have worked for years without getting a promotion or higher salary, so I
