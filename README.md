@@ -1,12 +1,5 @@
 ### Hi there 👋
 
-<p> 
-<img src="https://komarev.com/ghpvc/?username=demo-pzx&label=Profile%20views&color=0e75b6&style=flat" alt="demo-pzx" /> 
-</p>
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=demo-zexuan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Demo's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demo-zexuan&layout=compact&theme=buefy&hide_border=true" /> |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-
 I'm studying for the Postgraduate Entrance Examination now.
 
 I have 3 years work experience in back-end development, mainly using Java and Python.
