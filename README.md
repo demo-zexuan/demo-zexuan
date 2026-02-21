@@ -59,61 +59,61 @@ I'm a backend developer with 3 years of experience, primarily working with **Jav
   <!-- Backend Languages -->
   ### Backend Languages
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=0D1117&color=ED8B00">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=F5F5F5&color=ED8B00" alt="Java" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white&labelColor=0D1117&color=ED8B00">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white&labelColor=2D2D2D&color=ED8B00" alt="Java" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117&color=3776AB">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=F5F5F5&color=3776AB" alt="Python" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=0D1117&color=3776AB">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=2D2D2D&color=3776AB" alt="Python" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0D1117&color=00599C">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=F5F5F5&color=00599C" alt="C++" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white&labelColor=0D1117&color=00599C">
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white&labelColor=2D2D2D&color=00599C" alt="C++" />
   </picture>
 
   <!-- Databases -->
   ### Databases & Caching
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117&color=4479A1">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=F5F5F5&color=4479A1" alt="MySQL" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white&labelColor=0D1117&color=4479A1">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white&labelColor=2D2D2D&color=4479A1" alt="MySQL" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117&color=336791">
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=F5F5F5&color=336791" alt="PostgreSQL" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white&labelColor=0D1117&color=336791">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white&labelColor=2D2D2D&color=336791" alt="PostgreSQL" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0D1117&color=DC382D">
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=F5F5F5&color=DC382D" alt="Redis" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white&labelColor=0D1117&color=DC382D">
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white&labelColor=2D2D2D&color=DC382D" alt="Redis" />
   </picture>
 
   <!-- DevOps & Tools -->
   ### DevOps & Infrastructure
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117&color=2496ED">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=F5F5F5&color=2496ED" alt="Docker" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=0D1117&color=2496ED">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=2D2D2D&color=2496ED" alt="Docker" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0D1117&color=326CE5">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=F5F5F5&color=326CE5" alt="Kubernetes" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white&labelColor=0D1117&color=326CE5">
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white&labelColor=2D2D2D&color=326CE5" alt="Kubernetes" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117&color=F05032">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F5F5F5&color=F05032" alt="Git" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=0D1117&color=F05032">
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=2D2D2D&color=F05032" alt="Git" />
   </picture>
 
   <!-- Monitoring & Middleware -->
   ### Monitoring & Middleware
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white&labelColor=0D1117&color=005571">
-    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white&labelColor=F5F5F5&color=005571" alt="Elasticsearch" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white&labelColor=0D1117&color=005571">
+    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white&labelColor=2D2D2D&color=005571" alt="Elasticsearch" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white&labelColor=0D1117&color=E6522C">
-    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white&labelColor=F5F5F5&color=E6522C" alt="Prometheus" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white&labelColor=0D1117&color=E6522C">
+    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white&labelColor=2D2D2D&color=E6522C" alt="Prometheus" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white&labelColor=0D1117&color=231F20">
-    <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white&labelColor=F5F5F5&color=231F20" alt="Kafka" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white&labelColor=0D1117&color=231F20">
+    <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white&labelColor=2D2D2D&color=231F20" alt="Kafka" />
   </picture>
 
 </div>
@@ -160,14 +160,14 @@ I'm a backend developer with 3 years of experience, primarily working with **Jav
   <!-- Contact Badges - Theme Adaptive Horizontal Layout -->
   <a href="mailto:pengzexuan2001@gmail.com">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117&color=D14836">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=F5F5F5&color=D14836" alt="Gmail" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&labelColor=0D1117&color=D14836">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&labelColor=2D2D2D&color=D14836" alt="Gmail" />
     </picture>
   </a>
   <a href="https://www.yuque.com/_demo">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Blog-FF6B6B?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMzguOSAxMzcuNmwzNi4xIDM2LjFjMjMuOSAyMy45IDYyLjcgMjMuOSA4Ni42IDBMMzg5LjEgNDYuNWMxNS4zLTE1LjMgMTUuMy00MC4zIDAtNTUuNmwtMjcuNC0yNy40Yy0xNS4zLTE1LjMtNDAuMy0xNS4zLTU1LjYgMGMtMTQuMyAxNC4zLTM3LjggMTQuMy01Mi4xIDBMNjguMiAxNTAuN2MtOC4yIDguMi04LjIgMjEuNSAwIDI5LjdsLTI5LjMgMjkuM2MtOC4yIDguMi04LjIgMjEuNSAwIDI5LjdsMjkuMyAyOS4zeiIvPjwvc3ZnPg==&logoColor=white&labelColor=0D1117&color=FF6B6B">
-      <img src="https://img.shields.io/badge/Blog-FF6B6B?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjMDAwIiBkPSJNMzguOSAxMzcuNmwzNi4xIDM2LjFjMjMuOSAyMy45IDYyLjcgMjMuOSA4Ni42IDBMMzg5LjEgNDYuNWMxNS4zLTE1LjMgMTUuMy00MC4zIDAtNTUuNmwtMjcuNC0yNy40Yy0xNS4zLTE1LjMtNDAuMy0xNS4zLTU1LjYgMGMtMTQuMyAxNC4zLTM3LjggMTQuMy01Mi4xIDBMNjguMiAxNTAuN2MtOC4yIDguMi04LjIgMjEuNSAwIDI5LjdsLTI5LjMgMjkuM2MtOC4yIDguMi04LjIgMjEuNSAwIDI5LjlsMjkuMyAyOS4zeiIvPjwvc3ZnPg==&logoColor=white&labelColor=F5F5F5&color=FF6B6B" alt="Blog" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Blog-FF6B6B?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMzguOSAxMzcuNmwzNi4xIDM2LjFjMjMuOSAyMy45IDYyLjcgMjMuOSA4Ni42IDBMMzg5LjEgNDYuNWMxNS4zLTE1LjMgMTUuMy00MC4zIDAtNTUuNmwtMjcuNC0yNy40Yy0xNS4zLTE1LjMtNDAuMy0xNS4zLTU1LjYgMGMtMTQuMyAxNC4zLTM3LjggMTQuMy01Mi4xIDBMNjguMiAxNTAuN2MtOC4yIDguMi04LjIgMjEuNSAwIDI5LjdsLTI5LjMgMjkuM2MtOC4yIDguMi04LjIgMjEuNSAwIDI5LjdsMjkuMyAyOS4zeiIvPjwvc3ZnPg==&logoColor=white&labelColor=0D1117&color=FF6B6B">
+      <img src="https://img.shields.io/badge/Blog-FF6B6B?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjMDAwIiBkPSJNMzguOSAxMzcuNmwzNi4xIDM2LjFjMjMuOSAyMy45IDYyLjcgMjMuOSA4Ni42IDBMMzg5LjEgNDYuNWMxNS4zLTE1LjMgMTUuMy00MC4zIDAtNTUuNmwtMjcuNC0yNy40Yy0xNS4zLTE1LjMtNDAuMy0xNS4zLTU1LjYgMGMtMTQuMyAxNC4zLTM3LjggMTQuMy01Mi4xIDBMNjguMiAxNTAuN2MtOC4yIDguMi04LjIgMjEuNSAwIDI5LjdsLTI5LjMgMjkuM2MtOC4yIDguMi04LjIgMjEuNSAwIDI5LjlsMjkuMyAyOS4zeiIvPjwvc3ZnPg==&logoColor=white&labelColor=2D2D2D&color=FF6B6B" alt="Blog" />
     </picture>
   </a>
 
