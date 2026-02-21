@@ -19,7 +19,7 @@ I'm a backend developer with 3 years of experience, primarily working with **Jav
   <!-- GitHub Streak Card - Theme Adaptive -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=demo-zexuan&theme=tokyonight&hide_border=true&fire=00E5FF&currStreakLabel=00E5FF&sideNums=00E5FF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=00E5FF&bg_color=0D1117">
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=demo-zexuan&theme=transparent&hide_border=true&fire=FF5252&currStreakLabel=FF5252&sideNums=FF5252&sideLabels=000000&dates=000000&currStreakNum=FF5252" alt="GitHub Streak" />
+    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=demo-zexuan&theme=transparent&hide_border=true&fire=FF5252&currStreakLabel=FF5252&sideNums=FF5252&sideLabels=000000&dates=000000&currStreakNum=FF5252" alt="GitHub Streak" />
   </picture>
 
 </div>
