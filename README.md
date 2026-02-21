@@ -1,7 +1,10 @@
 <div align="center">
 
-  <!-- Typing SVG Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Java+%2B+Python;3+Years+Work+Experience;Currently+Studying+for+Master's+Degree" alt="Typing SVG" />
+  <!-- Typing SVG Animation - Theme Adaptive -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Java+%2B+Python;3+Years+Work+Experience;Currently+Studying+for+Master's+Degree">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=2563EB&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Java+%2B+Python;3+Years+Work+Experience;Currently+Studying+for+Master's+Degree" alt="Typing SVG" />
+  </picture>
 
 </div>
 
@@ -119,8 +122,11 @@ I'm a backend developer with 3 years of experience, primarily working with **Jav
 
 <div align="center">
 
-  <!-- Skill Icons - Enhanced Version -->
-  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,java,python,cpp,mysql,postgres,redis,elasticsearch,prometheus,kafka&theme=dark" alt="Tech Stack Icons" />
+  <!-- Skill Icons - Theme Adaptive -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,kubernetes,docker,java,python,cpp,mysql,postgres,redis,elasticsearch,prometheus,kafka&theme=dark">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,java,python,cpp,mysql,postgres,redis,elasticsearch,prometheus,kafka&theme=light" alt="Tech Stack Icons" />
+  </picture>
 
 </div>
 
