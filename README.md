@@ -16,12 +16,10 @@ I'm a backend developer with 3 years of experience, primarily working with **Jav
 
 <div align="center">
 
-<div align="center">
-
   <!-- GitHub Streak Card - Theme Adaptive -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=demo-zexuan&theme=tokyonight&hide_border=true&fire=00E5FF&currStreakLabel=00E5FF&sideNums=00E5FF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=00E5FF&bg_color=0D1117">
-    <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=demo-zexuan&theme=transparent&hide_border=true&fire=FF5252&currStreakLabel=FF5252&sideNums=FF5252&sideLabels=000000&dates=000000&currStreakNum=FF5252" alt="GitHub Streak" />
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=demo-zexuan&theme=transparent&hide_border=true&fire=FF5252&currStreakLabel=FF5252&sideNums=FF5252&sideLabels=000000&dates=000000&currStreakNum=FF5252" alt="GitHub Streak" />
   </picture>
 
 </div>
@@ -30,11 +28,11 @@ I'm a backend developer with 3 years of experience, primarily working with **Jav
   <div>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=demo-zexuan&theme=2077&hide_border=true">
-      <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=demo-zexuan&theme=transparent&hide_border=true" alt="Top Commit Language" />
+      <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=demo-zexuan&theme=transparent&hide_border=true" alt="Top Commit Language" />
     </picture>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=demo-zexuan&theme=2077&hide_border=true">
-      <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=demo-zexuan&theme=transparent&hide_border=true" alt="Top Languages" />
+      <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=demo-zexuan&theme=transparent&hide_border=true" alt="Top Languages" />
     </picture>
   </div>
 
@@ -45,7 +43,7 @@ I'm a backend developer with 3 years of experience, primarily working with **Jav
   <!-- Profile Details Card - Theme Adaptive -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=demo-zexuan&theme=2077&hide_border=true">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=demo-zexuan&theme=transparent&hide_border=true" alt="Profile Details" />
+    <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=demo-zexuan&theme=transparent&hide_border=true" alt="Profile Details" />
   </picture>
 
 </div>
@@ -56,8 +54,7 @@ I'm a backend developer with 3 years of experience, primarily working with **Jav
 
 <div align="center">
 
-  <!-- Backend Languages -->
-  ### Backend Languages
+  <!-- Core Technologies -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white&labelColor=0D1117&color=ED8B00">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white&labelColor=2D2D2D&color=ED8B00" alt="Java" />
@@ -70,9 +67,6 @@ I'm a backend developer with 3 years of experience, primarily working with **Jav
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white&labelColor=0D1117&color=00599C">
     <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white&labelColor=2D2D2D&color=00599C" alt="C++" />
   </picture>
-
-  <!-- Databases -->
-  ### Databases & Caching
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white&labelColor=0D1117&color=4479A1">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white&labelColor=2D2D2D&color=4479A1" alt="MySQL" />
@@ -85,9 +79,6 @@ I'm a backend developer with 3 years of experience, primarily working with **Jav
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white&labelColor=0D1117&color=DC382D">
     <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white&labelColor=2D2D2D&color=DC382D" alt="Redis" />
   </picture>
-
-  <!-- DevOps & Tools -->
-  ### DevOps & Infrastructure
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=0D1117&color=2496ED">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=2D2D2D&color=2496ED" alt="Docker" />
@@ -100,9 +91,6 @@ I'm a backend developer with 3 years of experience, primarily working with **Jav
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=0D1117&color=F05032">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=2D2D2D&color=F05032" alt="Git" />
   </picture>
-
-  <!-- Monitoring & Middleware -->
-  ### Monitoring & Middleware
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white&labelColor=0D1117&color=005571">
     <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white&labelColor=2D2D2D&color=005571" alt="Elasticsearch" />
@@ -122,7 +110,7 @@ I'm a backend developer with 3 years of experience, primarily working with **Jav
 
 <div align="center">
 
-  <!-- Skill Icons - Theme Adaptive -->
+  <!-- Skill Icons - Compact Display -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,kubernetes,docker,java,python,cpp,mysql,postgres,redis,elasticsearch,prometheus,kafka&theme=dark">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,java,python,cpp,mysql,postgres,redis,elasticsearch,prometheus,kafka&theme=light" alt="Tech Stack Icons" />
